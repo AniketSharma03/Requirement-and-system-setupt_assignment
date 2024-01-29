@@ -1,0 +1,7 @@
+1.List all the tools you might use as a web developer?
+
+Sol: Web development involves a variety of tools.Text Editors like Visual Studio Code,Sublime Text,JetBrains Fleet.Version controls like Git,Github.Web browser like Google Chrome,Mozilla Firefox,vs code extension like live server etc.
+
+2.What are some of the features of PW Skills Online Lab? Explain how they are useful.
+
+Sol: Without installing any software or IDE we can continue doing the code stuff in pw online lab where we get access to mostly all required stuffs to do web developement.Pw Online Lab provide us with an developing interface to make practical use of what we have learnt.
